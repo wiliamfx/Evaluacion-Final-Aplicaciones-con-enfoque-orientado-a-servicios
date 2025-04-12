@@ -24,8 +24,11 @@ Primero, clona este repositorio en tu máquina local. Abre la terminal y ejecuta
 
 
 PASOS:
-🧹 Hacer primero mvn clean
-📦 Luego mvn install
-🚀 Ejecutar mvn spring-boot:run
+🧹 Hacer primero mvn clean.
+
+📦 Luego mvn install. 
+
+🚀 Ejecutar mvn spring-boot:run.
+
 Último paso: Probar con Postman
 Se explica cómo realizar una solicitud POST con el cuerpo JSON que contiene los parámetros necesarios y qué respuesta esperar.
